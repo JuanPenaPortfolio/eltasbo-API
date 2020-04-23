@@ -1,0 +1,194 @@
+var data=[
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/68D112550_large.png",
+    "manifestId": 12550,
+    "name": "Head Banger",
+    "rarity": "icon",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 300
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/DAC812551_large.png",
+    "manifestId": 12551,
+    "name": "Diamond Jack",
+    "rarity": "icon",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 0
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/9DD712552_large.png",
+    "manifestId": 12552,
+    "name": "Goosebumps",
+    "rarity": "icon",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/08CF12553_large.png",
+    "manifestId": 12553,
+    "name": "Travis Scott",
+    "rarity": "icon",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/46DD12554_large.png",
+    "manifestId": 12554,
+    "name": "Astro Jack",
+    "rarity": "icon",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 2000
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/01D612532_large.png",
+    "manifestId": 12532,
+    "name": "Unstoppable Force",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/237112511_large.png",
+    "manifestId": 12511,
+    "name": "Dragacorn",
+    "rarity": "marvel",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 0
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/FF4112533_large.png",
+    "manifestId": 12533,
+    "name": "Domino",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/791612535_large.png",
+    "manifestId": 12535,
+    "name": "Psi-blade",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 0
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/B97412534_large.png",
+    "manifestId": 12534,
+    "name": "Cable",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/BBA912523_large.png",
+    "manifestId": 12523,
+    "name": "Ravenpool",
+    "rarity": "marvel",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 0
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/3AB912536_large.png",
+    "manifestId": 12536,
+    "name": "Probability Dagger",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/B16B12537_large.png",
+    "manifestId": 12537,
+    "name": "Psylocke",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/A31B12538_large.png",
+    "manifestId": 12538,
+    "name": "Psi-Rider",
+    "rarity": "Epic",
+    "storeCategory": "BRSpecialFeatured",
+    "vBucks": 1200
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/8AC412524_large.png",
+    "manifestId": 12524,
+    "name": "Cuddlepool",
+    "rarity": "marvel",
+    "storeCategory": "BRSpecialDaily",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/A94A12510_large.png",
+    "manifestId": 12510,
+    "name": "Meaty Mallets",
+    "rarity": "marvel",
+    "storeCategory": "BRSpecialDaily",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/6C1B12512_large.png",
+    "manifestId": 12512,
+    "name": "Chimichanga!",
+    "rarity": "marvel",
+    "storeCategory": "BRSpecialDaily",
+    "vBucks": 300
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/D5E512509_large.png",
+    "manifestId": 12509,
+    "name": "Scootin'",
+    "rarity": "marvel",
+    "storeCategory": "BRSpecialDaily",
+    "vBucks": 500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/D7A212132_large.png",
+    "manifestId": 12132,
+    "name": "Prismatic Edge",
+    "rarity": "Rare",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 500
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/703B4997_large.png",
+    "manifestId": 4997,
+    "name": "Nitelite",
+    "rarity": "Handmade",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/460F4999_large.png",
+    "manifestId": 4999,
+    "name": "Liteshow",
+    "rarity": "Handmade",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/1A476907_large.png",
+    "manifestId": 6907,
+    "name": "Glowsticks",
+    "rarity": "Quality",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/52BD6188_large.png",
+    "manifestId": 6188,
+    "name": "Drop The Bass",
+    "rarity": "Quality",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://trackercdn.com/legacycdn/fortnite/3E751256_large.png",
+    "manifestId": 1256,
+    "name": "Jubilation",
+    "rarity": "Handmade",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 200
+  }
+]

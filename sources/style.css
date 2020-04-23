@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #1e1e1e;
+}
+.content{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+.content__title{
+    width: 100%;
+    height: auto;
+    margin: 50px;
+    font-family: luckiest guy,Lato,Roboto,Calibri,Arial;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.content__alert{
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Lato;
+    background-color: #f5df4b;
+    color: #343434;
+    margin: 0;
+}
+.content__alert i {
+    color: #16cbff;
+}
+
+.content__stock{
+    width: 70%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.content__stock-item{
+    width: 200px;
+    height: 300px;
+}
+.content__stock-item img{
+    width: 200px;
+
+}
+.content__stock-item--epic{
+    background: orange;
+}
+.content__stock-item--marvel{
+    background: red;
+}
